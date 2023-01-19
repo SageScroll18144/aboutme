@@ -183,3 +183,36 @@ a#share:hover{
 #contato img{
     display: inline-block;
 }
+#premios {
+    width: 65%;
+    margin: auto;
+    padding: 2em;
+}
+#premios #texto-central{
+    margin: auto 4em;
+    text-align: center;
+}
+#premios .texto-index{
+    width: 70%;
+    padding-left: 30%;
+}
+#premios h1{
+    font-family: 'Oswald', sans-serif;
+    color:#4169e1;
+}
+.titulo{
+    display: block;
+}
+.texto-index .texto{
+    display: flex;
+}
+.texto-index p{
+    display: flex;
+    text-align: justify;
+}
+.corpo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 2em;
+}
