@@ -216,3 +216,36 @@ a#share:hover{
     justify-content: center;
     padding-bottom: 2em;
 }
+#skill {
+    width: 65%;
+    margin: auto;
+    padding: 2em;
+}
+#skill #texto-central{
+    margin: auto 4em;
+    text-align: center;
+}
+#skill .texto-index{
+    width: 70%;
+    padding-left: 30%;
+}
+#skill h1{
+    font-family: 'Oswald', sans-serif;
+    color:#4169e1;
+}
+.titulo{
+    display: block;
+}
+.texto-index .texto{
+    display: flex;
+}
+.texto-index p{
+    display: flex;
+    text-align: justify;
+}
+.corpo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 2em;
+}
